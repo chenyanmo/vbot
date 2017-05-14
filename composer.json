@@ -22,7 +22,8 @@
         "illuminate/support": "^5.3",
         "nesbot/carbon": "^1.21",
         "aferrandini/phpqrcode": "^1.0",
-        "symfony/console": "3.*"
+        "symfony/console": "3.*",
+        "losgif/vbot": "1.0.1"
     },
     "autoload": {
         "files": [
