@@ -1,6 +1,6 @@
 <?php
 
-namespace Hanson\Vbot\Foundation;
+namespace Losgif\Vbot\Foundation;
 
 class SyncFailException extends \Exception
 {

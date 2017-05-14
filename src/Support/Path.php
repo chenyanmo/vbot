@@ -1,6 +1,6 @@
 <?php
 
-namespace Hanson\Vbot\Support;
+namespace Losgif\Vbot\Support;
 
 class Path
 {

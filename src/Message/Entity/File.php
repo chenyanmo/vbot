@@ -1,17 +1,17 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/15
  * Time: 12:29.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
-use Hanson\Vbot\Message\MediaInterface;
-use Hanson\Vbot\Message\MessageInterface;
-use Hanson\Vbot\Message\UploadAble;
-use Hanson\Vbot\Support\FileManager;
+use Losgif\Vbot\Message\MediaInterface;
+use Losgif\Vbot\Message\MessageInterface;
+use Losgif\Vbot\Message\UploadAble;
+use Losgif\Vbot\Support\FileManager;
 
 class File extends Message implements MessageInterface, MediaInterface
 {

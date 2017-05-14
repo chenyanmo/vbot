@@ -1,8 +1,8 @@
 <?php
 
-namespace Hanson\Vbot\Foundation\ServiceProviders;
+namespace Losgif\Vbot\Foundation\ServiceProviders;
 
-use Hanson\Vbot\Core\Server;
+use Losgif\Vbot\Core\Server;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

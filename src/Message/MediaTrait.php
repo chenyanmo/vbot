@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/15
  * Time: 3:20.
  */
 
-namespace Hanson\Vbot\Message;
+namespace Losgif\Vbot\Message;
 
-use Hanson\Vbot\Support\Path;
+use Losgif\Vbot\Support\Path;
 
 /**
  * Class MediaTrait.

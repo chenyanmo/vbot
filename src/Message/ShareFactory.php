@@ -1,18 +1,18 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/15
  * Time: 12:29.
  */
 
-namespace Hanson\Vbot\Message;
+namespace Losgif\Vbot\Message;
 
-use Hanson\Vbot\Message\Entity\File;
-use Hanson\Vbot\Message\Entity\Mina;
-use Hanson\Vbot\Message\Entity\Official;
-use Hanson\Vbot\Message\Entity\Share;
-use Hanson\Vbot\Support\Content;
+use Losgif\Vbot\Message\Entity\File;
+use Losgif\Vbot\Message\Entity\Mina;
+use Losgif\Vbot\Message\Entity\Official;
+use Losgif\Vbot\Message\Entity\Share;
+use Losgif\Vbot\Support\Content;
 
 class ShareFactory
 {

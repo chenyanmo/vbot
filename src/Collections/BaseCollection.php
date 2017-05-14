@@ -1,8 +1,8 @@
 <?php
 
-namespace Hanson\Vbot\Collections;
+namespace Losgif\Vbot\Collections;
 
-use Hanson\Vbot\Support\Content;
+use Losgif\Vbot\Support\Content;
 use Illuminate\Support\Collection;
 
 class BaseCollection extends Collection

@@ -1,16 +1,16 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/9
  * Time: 21:13.
  */
 
-namespace Hanson\Vbot\Core;
+namespace Losgif\Vbot\Core;
 
 use GuzzleHttp\Client as HttpClient;
 use GuzzleHttp\Cookie\FileCookieJar;
-use Hanson\Vbot\Support\Path;
+use Losgif\Vbot\Support\Path;
 
 class Http
 {

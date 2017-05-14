@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/15
  * Time: 12:29.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
-use Hanson\Vbot\Message\MessageInterface;
+use Losgif\Vbot\Message\MessageInterface;
 
 class RequestFriend extends Message implements MessageInterface
 {

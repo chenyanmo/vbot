@@ -1,16 +1,16 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/12
  * Time: 20:41.
  */
 
-namespace Hanson\Vbot\Core;
+namespace Losgif\Vbot\Core;
 
-use Hanson\Vbot\Collections\Official;
-use Hanson\Vbot\Collections\Special;
-use Hanson\Vbot\Support\FileManager;
+use Losgif\Vbot\Collections\Official;
+use Losgif\Vbot\Collections\Special;
+use Losgif\Vbot\Support\FileManager;
 
 class ContactFactory
 {

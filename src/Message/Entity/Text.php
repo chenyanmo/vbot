@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/16
  * Time: 18:33.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
-use Hanson\Vbot\Message\MessageInterface;
-use Hanson\Vbot\Support\Console;
+use Losgif\Vbot\Message\MessageInterface;
+use Losgif\Vbot\Support\Console;
 
 class Text extends Message implements MessageInterface
 {

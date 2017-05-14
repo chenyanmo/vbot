@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Administrator
+ * User: Losgif
  * Date: 2017/1/24
  * Time: 17:44.
  */
 
-namespace Hanson\Vbot\Support;
+namespace Losgif\Vbot\Support;
 
 /**
  * Content 处理类.

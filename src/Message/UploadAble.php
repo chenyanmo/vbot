@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: HanSon
+ * User: Losgif
  * Date: 2017/1/9
  * Time: 16:18.
  */
 
-namespace Hanson\Vbot\Message;
+namespace Losgif\Vbot\Message;
 
-use Hanson\Vbot\Core\Server;
-use Hanson\Vbot\Support\Console;
+use Losgif\Vbot\Core\Server;
+use Losgif\Vbot\Support\Console;
 
 /**
  * Class UploadAble.

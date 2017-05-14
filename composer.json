@@ -30,7 +30,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Hanson\\Vbot\\": "src/"
+            "Losgif\\Vbot\\": "src/"
         }
     }
 }

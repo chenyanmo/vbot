@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: HanSon
+ * User: Losgif
  * Date: 2017/1/14
  * Time: 11:21.
  */
 
-namespace Hanson\Vbot\Core;
+namespace Losgif\Vbot\Core;
 
-use Hanson\Vbot\Support\Console;
+use Losgif\Vbot\Support\Console;
 
 class Sync
 {

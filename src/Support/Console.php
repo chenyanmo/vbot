@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/9
  * Time: 22:51.
  */
 
-namespace Hanson\Vbot\Support;
+namespace Losgif\Vbot\Support;
 
 use Carbon\Carbon;
 use PHPQRCode\QRcode;

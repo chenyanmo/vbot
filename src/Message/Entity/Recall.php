@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: HanSon
+ * User: Losgif
  * Date: 2017/1/13
  * Time: 15:48.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
-use Hanson\Vbot\Message\MediaTrait;
-use Hanson\Vbot\Message\MessageInterface;
+use Losgif\Vbot\Message\MediaTrait;
+use Losgif\Vbot\Message\MessageInterface;
 
 class Recall extends Message implements MessageInterface
 {

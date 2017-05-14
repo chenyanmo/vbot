@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/2/12
  * Time: 20:44.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
-use Hanson\Vbot\Message\MessageInterface;
+use Losgif\Vbot\Message\MessageInterface;
 
 class GroupChange extends Message implements MessageInterface
 {

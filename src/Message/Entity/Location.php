@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/16
  * Time: 21:13.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
-use Hanson\Vbot\Message\MessageInterface;
+use Losgif\Vbot\Message\MessageInterface;
 
 class Location extends Message implements MessageInterface
 {

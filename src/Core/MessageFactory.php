@@ -1,29 +1,29 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: HanSon
+ * User: Losgif
  * Date: 2017/1/14
  * Time: 11:54.
  */
 
-namespace Hanson\Vbot\Core;
+namespace Losgif\Vbot\Core;
 
-use Hanson\Vbot\Message\Entity\Emoticon;
-use Hanson\Vbot\Message\Entity\GroupChange;
-use Hanson\Vbot\Message\Entity\Image;
-use Hanson\Vbot\Message\Entity\Location;
-use Hanson\Vbot\Message\Entity\Message;
-use Hanson\Vbot\Message\Entity\NewFriend;
-use Hanson\Vbot\Message\Entity\Recall;
-use Hanson\Vbot\Message\Entity\Recommend;
-use Hanson\Vbot\Message\Entity\RedPacket;
-use Hanson\Vbot\Message\Entity\RequestFriend;
-use Hanson\Vbot\Message\Entity\Text;
-use Hanson\Vbot\Message\Entity\Touch;
-use Hanson\Vbot\Message\Entity\Transfer;
-use Hanson\Vbot\Message\Entity\Video;
-use Hanson\Vbot\Message\Entity\Voice;
-use Hanson\Vbot\Message\ShareFactory;
+use Losgif\Vbot\Message\Entity\Emoticon;
+use Losgif\Vbot\Message\Entity\GroupChange;
+use Losgif\Vbot\Message\Entity\Image;
+use Losgif\Vbot\Message\Entity\Location;
+use Losgif\Vbot\Message\Entity\Message;
+use Losgif\Vbot\Message\Entity\NewFriend;
+use Losgif\Vbot\Message\Entity\Recall;
+use Losgif\Vbot\Message\Entity\Recommend;
+use Losgif\Vbot\Message\Entity\RedPacket;
+use Losgif\Vbot\Message\Entity\RequestFriend;
+use Losgif\Vbot\Message\Entity\Text;
+use Losgif\Vbot\Message\Entity\Touch;
+use Losgif\Vbot\Message\Entity\Transfer;
+use Losgif\Vbot\Message\Entity\Video;
+use Losgif\Vbot\Message\Entity\Voice;
+use Losgif\Vbot\Message\ShareFactory;
 
 class MessageFactory
 {

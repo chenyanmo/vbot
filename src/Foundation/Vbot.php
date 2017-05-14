@@ -1,17 +1,17 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/9
  * Time: 21:22.
  */
 
-namespace Hanson\Vbot\Foundation;
+namespace Losgif\Vbot\Foundation;
 
 use ErrorException;
-use Hanson\Vbot\Core\Server;
-use Hanson\Vbot\Support\Console;
-use Hanson\Vbot\Support\Path;
+use Losgif\Vbot\Core\Server;
+use Losgif\Vbot\Support\Console;
+use Losgif\Vbot\Support\Path;
 use Illuminate\Support\Collection;
 use Pimple\Container;
 use Throwable;

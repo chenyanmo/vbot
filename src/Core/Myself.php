@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/3
  * Time: 21:54.
  */
 
-namespace Hanson\Vbot\Core;
+namespace Losgif\Vbot\Core;
 
-use Hanson\Vbot\Support\Console;
-use Hanson\Vbot\Support\Content;
+use Losgif\Vbot\Support\Console;
+use Losgif\Vbot\Support\Content;
 
 class Myself
 {

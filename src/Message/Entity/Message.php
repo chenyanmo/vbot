@@ -1,16 +1,16 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/15
  * Time: 0:12.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
 use Carbon\Carbon;
-use Hanson\Vbot\Collections\Special;
-use Hanson\Vbot\Support\Content;
+use Losgif\Vbot\Collections\Special;
+use Losgif\Vbot\Support\Content;
 
 class Message
 {

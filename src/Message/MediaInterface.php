@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/15
  * Time: 2:53.
  */
 
-namespace Hanson\Vbot\Message;
+namespace Losgif\Vbot\Message;
 
 interface MediaInterface
 {

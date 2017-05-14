@@ -1,19 +1,19 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/29
  * Time: 0:10.
  */
-use Hanson\Vbot\Collections\Account;
-use Hanson\Vbot\Collections\Contact;
-use Hanson\Vbot\Collections\Group;
-use Hanson\Vbot\Collections\Member;
-use Hanson\Vbot\Collections\Message;
-use Hanson\Vbot\Collections\Official;
-use Hanson\Vbot\Core\Http;
-use Hanson\Vbot\Core\Myself;
-use Hanson\Vbot\Core\Server;
+use Losgif\Vbot\Collections\Account;
+use Losgif\Vbot\Collections\Contact;
+use Losgif\Vbot\Collections\Group;
+use Losgif\Vbot\Collections\Member;
+use Losgif\Vbot\Collections\Message;
+use Losgif\Vbot\Collections\Official;
+use Losgif\Vbot\Core\Http;
+use Losgif\Vbot\Core\Myself;
+use Losgif\Vbot\Core\Server;
 
 if (!function_exists('server')) {
     /**

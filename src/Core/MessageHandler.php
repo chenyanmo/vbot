@@ -1,22 +1,22 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/14
  * Time: 23:08.
  */
 
-namespace Hanson\Vbot\Core;
+namespace Losgif\Vbot\Core;
 
 use Carbon\Carbon;
 use Closure;
-use Hanson\Vbot\Message\Entity\Emoticon;
-use Hanson\Vbot\Message\Entity\Image;
-use Hanson\Vbot\Message\Entity\Message;
-use Hanson\Vbot\Message\Entity\Text;
-use Hanson\Vbot\Message\Entity\Video;
-use Hanson\Vbot\Support\Console;
-use Hanson\Vbot\Support\Path;
+use Losgif\Vbot\Message\Entity\Emoticon;
+use Losgif\Vbot\Message\Entity\Image;
+use Losgif\Vbot\Message\Entity\Message;
+use Losgif\Vbot\Message\Entity\Text;
+use Losgif\Vbot\Message\Entity\Video;
+use Losgif\Vbot\Support\Console;
+use Losgif\Vbot\Support\Path;
 
 class MessageHandler
 {

@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/2
  * Time: 22:21.
  */
 
-namespace Hanson\Vbot\Support;
+namespace Losgif\Vbot\Support;
 
 class FileManager
 {

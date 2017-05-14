@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/13
  * Time: 20:56.
  */
 
-namespace Hanson\Vbot\Collections;
+namespace Losgif\Vbot\Collections;
 
-use Hanson\Vbot\Support\Console;
+use Losgif\Vbot\Support\Console;
 
 class Group extends BaseCollection
 {

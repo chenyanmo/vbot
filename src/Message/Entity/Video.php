@@ -1,19 +1,19 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2017/1/13
  * Time: 22:08.
  */
 
-namespace Hanson\Vbot\Message\Entity;
+namespace Losgif\Vbot\Message\Entity;
 
-use Hanson\Vbot\Message\MediaInterface;
-use Hanson\Vbot\Message\MediaTrait;
-use Hanson\Vbot\Message\MessageInterface;
-use Hanson\Vbot\Message\UploadAble;
-use Hanson\Vbot\Support\Console;
-use Hanson\Vbot\Support\FileManager;
+use Losgif\Vbot\Message\MediaInterface;
+use Losgif\Vbot\Message\MediaTrait;
+use Losgif\Vbot\Message\MessageInterface;
+use Losgif\Vbot\Message\UploadAble;
+use Losgif\Vbot\Support\Console;
+use Losgif\Vbot\Support\FileManager;
 
 class Video extends Message implements MessageInterface, MediaInterface
 {

@@ -1,18 +1,18 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Hanson
+ * User: Losgif
  * Date: 2016/12/9
  * Time: 21:10.
  */
 
-namespace Hanson\Vbot\Core;
+namespace Losgif\Vbot\Core;
 
 use Endroid\QrCode\QrCode;
-use Hanson\Vbot\Support\Console;
-use Hanson\Vbot\Support\FileManager;
-use Hanson\Vbot\Support\Path;
-use Hanson\Vbot\Support\System;
+use Losgif\Vbot\Support\Console;
+use Losgif\Vbot\Support\FileManager;
+use Losgif\Vbot\Support\Path;
+use Losgif\Vbot\Support\System;
 
 class Server
 {
